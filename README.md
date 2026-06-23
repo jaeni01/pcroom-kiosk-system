@@ -180,4 +180,4 @@ private void UpdateFoodOnOrder(string itemsStr)
 | ![관리자 매출 차트](images/03.jpg) | 관리자 매출 확인 화면 — 시간대별 매출 막대 차트 조회 (코드 설명 포함) |
 
 ## 🎬 시연 영상
-[![시연 영상](images/thumbnail.png)](https://youtu.be/MTrQJ0aKoDg)
+[![시연 영상](https://img.youtube.com/vi/MTrQJ0aKoDg/0.jpg)](https://youtu.be/MTrQJ0aKoDg)
